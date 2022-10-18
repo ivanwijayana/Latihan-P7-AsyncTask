@@ -2,10 +2,10 @@
 
 
 ### Start Task
-![Start](img/start.jpg "Start")
+![Start](start.jpg "Start")
 
 
 
-### Naping... Tas
-![Nap](img/naping.jpg "Nap")
+### Naping... Task
+![Nap](naping.jpg "Nap")
 
